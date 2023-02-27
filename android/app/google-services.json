@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "147590035506",
+    "firebase_url": "https://jhatfat-default-rtdb.firebaseio.com",
+    "project_id": "jhatfat",
+    "storage_bucket": "jhatfat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147590035506:android:3fc8ad80c32e0fbea8e42b",
+        "android_client_info": {
+          "package_name": "com.jhatfat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147590035506-2slegfg152au1mrojkk9p6ls79g3kih8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat",
+            "certificate_hash": "a258eb0ac7b319371548d51bf991aace23d51591"
+          }
+        },
+        {
+          "client_id": "147590035506-4mgieb2dr7teh43i4njbsvre917kgru7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat",
+            "certificate_hash": "3cc0946787c40a075d721cc68141d59c545794c7"
+          }
+        },
+        {
+          "client_id": "147590035506-jjlhi0ae694vl81s8siblentk4rhdure.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat",
+            "certificate_hash": "c64a5e43dda88504dcf1b28c4a21b65adaf08377"
+          }
+        },
+        {
+          "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTsuo3QSNdQmKWM3KUGQpYo-BrSWvNRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147590035506-4mban0ktk92lc86qr184td94bhhltc55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147590035506:android:ea3c6179b1b785f9a8e42b",
+        "android_client_info": {
+          "package_name": "com.jhatfat.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147590035506-kpemge63quglase323npapfajkd90it2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.driver",
+            "certificate_hash": "a258eb0ac7b319371548d51bf991aace23d51591"
+          }
+        },
+        {
+          "client_id": "147590035506-rv8658iq6u1mrg3kvvhnhnm7v1uou3uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.driver",
+            "certificate_hash": "c64a5e43dda88504dcf1b28c4a21b65adaf08377"
+          }
+        },
+        {
+          "client_id": "147590035506-vq5lr6l08lajeh02oijfikpl7d5khmb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.driver",
+            "certificate_hash": "3cc0946787c40a075d721cc68141d59c545794c7"
+          }
+        },
+        {
+          "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTsuo3QSNdQmKWM3KUGQpYo-BrSWvNRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147590035506-4mban0ktk92lc86qr184td94bhhltc55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147590035506:android:511122cd61a0abdca8e42b",
+        "android_client_info": {
+          "package_name": "com.jhatfat.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147590035506-3jdh3kpb92blve5nnr9tobllmfrj2mck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.vendor",
+            "certificate_hash": "3cc0946787c40a075d721cc68141d59c545794c7"
+          }
+        },
+        {
+          "client_id": "147590035506-h6v2cdh533rc1fami56lfkipkif0hj13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.vendor",
+            "certificate_hash": "a258eb0ac7b319371548d51bf991aace23d51591"
+          }
+        },
+        {
+          "client_id": "147590035506-ssbo8f36ge363utf1ppq83raibgfb0sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhatfat.vendor",
+            "certificate_hash": "c64a5e43dda88504dcf1b28c4a21b65adaf08377"
+          }
+        },
+        {
+          "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTsuo3QSNdQmKWM3KUGQpYo-BrSWvNRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147590035506-b64l4b3g0an8aldv32l58pvm8g5fbbns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147590035506-4mban0ktk92lc86qr184td94bhhltc55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gomarketdemo.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
